@@ -1,0 +1,4 @@
+echo "node_modules/
+.env
+config/service-account-key.json
+*.log" > .gitignore
